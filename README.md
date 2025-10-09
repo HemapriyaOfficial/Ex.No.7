@@ -35,11 +35,16 @@ o Adapt suggestions based on past user preferences and responses.
 
 # Project Concept: “Your Personal Productivity Assistant”
 The assistant will:
-✅ Organize daily tasks
-✅ Schedule reminders
-✅ Suggest wellness tips
-✅ Answer general questions
-✅ Adapt to user preferences through prompts
+
+Organize daily tasks
+
+Schedule reminders
+
+Suggest wellness tips
+
+Answer general questions
+
+Adapt to user preferences through prompts
 
 
 
