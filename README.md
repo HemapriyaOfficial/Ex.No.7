@@ -79,8 +79,7 @@ I also want to include 2 hours for project work, 30 mins for wellness, and some 
 Here, we’re giving structured input so ChatGPT can create a more personalized plan.
 
 ## PHASE 3 — Role Prompt + Format Instruction
-# prompt
-Prompt:
+# Prompt:
 
 “You are my personal productivity assistant.
 Create a detailed daily plan with the following:
