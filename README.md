@@ -37,13 +37,9 @@ o Adapt suggestions based on past user preferences and responses.
 The assistant will:
 
 Organize daily tasks
-
 Schedule reminders
-
 Suggest wellness tips
-
 Answer general questions
-
 Adapt to user preferences through prompts
 
 
