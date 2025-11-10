@@ -69,6 +69,7 @@ Please provide:
 Make the output structured and ready to use for development.
 
 # Output:
+https://adaptiv-assist.lovable.app/
 <img width="1887" height="917" alt="image" src="https://github.com/user-attachments/assets/02e8ab51-ebae-4bd7-880a-39d4744ebaef" />
 <img width="1879" height="905" alt="image" src="https://github.com/user-attachments/assets/98408c2a-9539-4f6c-8315-43c1e66574b1" />
 <img width="1888" height="919" alt="image" src="https://github.com/user-attachments/assets/4fcd8400-c8e4-4344-9741-85bf9f3931b5" />
