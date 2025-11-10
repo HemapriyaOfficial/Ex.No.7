@@ -73,8 +73,8 @@ Make the output structured and ready to use for development.
 https://adaptiv-assist.lovable.app/
 
 <img width="1887" height="917" alt="image" src="https://github.com/user-attachments/assets/02e8ab51-ebae-4bd7-880a-39d4744ebaef" />
-<img width="1879" height="905" alt="image" src="https://github.com/user-attachments/assets/98408c2a-9539-4f6c-8315-43c1e66574b1" />
-<img width="1911" height="884" alt="image" src="https://github.com/user-attachments/assets/4876a18e-9972-4a0a-bd05-4641039817df" />
+<img width="1876" height="913" alt="image" src="https://github.com/user-attachments/assets/df071628-09f3-4936-8e36-c0673b67f7a9" />
+<img width="1883" height="877" alt="image" src="https://github.com/user-attachments/assets/9aa79092-381e-4d06-a345-774c0224fa9c" />
 
 
 
